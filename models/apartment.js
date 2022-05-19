@@ -11,7 +11,7 @@ const Apartment = mongoose.model('Apartment', new mongoose.Schema({
         maxlength: 255
     },
     serie: {
-        type: genreSchema,
+        type: serieSchema,
         required: true
     },
     outDoorPool: {
