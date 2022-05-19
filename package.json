@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Kwaku-code/homly#readme",
   "dependencies": {
-    "joi": "^13.1.0"
+    "joi": "^13.1.0",
+    "joi-objectid": "^4.0.2"
   }
 }
