@@ -9,7 +9,7 @@ const router = express.Router();
 router.post('/', [auth, validate(validateLeaseTenure)], async (req, res) => {
     const lease = await Lease.lookup(req.body.lesseeId, req.body.apartmentId);
 
-    if (!lessee) return res.status(404).send('Lease not found.');
+    if (!lease) return res.status(404).send('Lease not found.');
 
     if (lease.leaseExpiration) return res.status(400).send('Lease tenure already processed.');
 

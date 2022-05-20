@@ -27,15 +27,15 @@ const Apartment = mongoose.model('Apartment', new mongoose.Schema({
         default: false
     },
     dogRun: {
-        type: String,
+        type: Boolean,
         default: false
     },
     movieRoom: {
-        type: String,
+        type: Boolean,
         default: false
     },
     laundryRoom: {
-        type: String,
+        type: Boolean,
         default: false
     },
     availableFlats: {
@@ -44,7 +44,7 @@ const Apartment = mongoose.model('Apartment', new mongoose.Schema({
         min: 0,
         max: 255
     },
-    monthlyRentalRate: {
+    monthlyLeaseRate: {
         type: Number,
         required: true,
         min: 1000,
@@ -56,8 +56,14 @@ function validateApartment(apartment) {
     const schema = {
         name: Joi.string().min(5).max(50).required(),
         serieId: Joi.objectId().required(),
+        outDoorPool: Joi.boolean(),
+        internetCafe: Joi.boolean(),
+        fitnessCenter: Joi.boolean(),
+        dogRun: Joi.boolean(),
+        movieRoom: Joi.boolean(),
+        laundryRoom: Joi.boolean(),
         availableFlats: Joi.number().min(0).required(),
-        monthlyRentalRate: Joi.number().min(0).required()
+        monthlyLeaseRate: Joi.number().min(1000).required()
     };
 
     return Joi.validate(apartment, schema);

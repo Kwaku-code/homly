@@ -12,7 +12,7 @@ const serieSchema = new mongoose.Schema({
         type: Number,
         required: true,
         min: 1,
-        maxlength: 50
+        max: 50
     },
     amenities: {
         type: Number,
@@ -39,6 +39,6 @@ function validateSerie(serie) {
     return Joi.validate(serie, schema);
 };
 
-exports.genreSchema = serieSchema;
+exports.serieSchema = serieSchema;
 exports.Serie = Serie;
 exports.validate = validateSerie;
