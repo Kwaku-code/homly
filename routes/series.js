@@ -16,6 +16,7 @@ router.post('/', auth, async (req, res) => {
 
     let serie = new Serie({ 
         name: req.body.name,
+        numberOfFlats: req.body.numberOfFlats,
         amenities: req.body.amenities,
         smartLiving: req.body.smartLiving
     });
@@ -31,6 +32,7 @@ router.put('/:id', [auth, validateObjectId], async (req, res) => {
     const serie = await Serie.findByIdAndUpdate(req.params.id, 
         { 
             name: req.body.name,
+            numberOfFlats: req.body.numberOfFlats,
             amenities: req.body.amenities,
             smartLiving: req.body.smartLiving
         }, { new: true });

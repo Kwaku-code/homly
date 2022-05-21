@@ -7,23 +7,23 @@ const serieSchema = new mongoose.Schema({
         required: true,
         minlength: 5,
         maxlength: 50
-    },
-    numberOfFlats: {
-        type: Number,
-        required: true,
-        min: 1,
-        max: 50
-    },
-    amenities: {
-        type: Number,
-        required: true,
-        min: 5,
-        max: 20
-    },
-    smartLiving: {
-        type: Boolean,
-        default: false
     }
+    // numberOfFlats: {
+    //     type: Number,
+    //     required: true,
+    //     min: 1,
+    //     max: 50
+    // },
+    // amenities: {
+    //     type: Number,
+    //     required: true,
+    //     min: 5,
+    //     max: 20
+    // },
+    // smartLiving: {
+    //     type: Boolean,
+    //     default: false
+    // }
 });
 
 const Serie = mongoose.model('Serie', serieSchema);
@@ -31,9 +31,9 @@ const Serie = mongoose.model('Serie', serieSchema);
 function validateSerie(serie) {
     const schema = {
         name: Joi.string().min(5).max(50).required(),
-        numberOfFlats: Joi.string().min(1).max(50).required(),
-        amenities: Joi.string().min(5).max(20).required(),
-        smartLiving: Joi.boolean()
+        // numberOfFlats: Joi.number().min(1).max(50).required(),
+        // amenities: Joi.number().min(5).max(20).required(),
+        // smartLiving: Joi.boolean()
     };
 
     return Joi.validate(serie, schema);

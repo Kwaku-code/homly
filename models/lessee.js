@@ -29,8 +29,8 @@ const Lessee = mongoose.model('Lessee', new mongoose.Schema({
 function validateLessee(lessee) {
     const schema = {
         name: Joi.string().min(5).max(50).required(),
-        leaseTerm: Joi.string().min(1).max(60).required(),
-        numOfLeaseFlats: Joi.string().min(1).max(5).required(),
+        leaseTerm: Joi.number().min(1).max(60).required(),
+        numOfLeaseFlats: Joi.number().min(1).max(5).required(),
         phone: Joi.string().min(5).max(50).required()
     };
 

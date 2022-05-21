@@ -11,7 +11,7 @@ const leaseSchema = new mongoose.Schema({
                 minlength: 5,
                 maxlength: 50
             },
-            numOfLeaseMths: {
+            leaseTerm: {
                 type: Number,
                 min: 1,
                 max: 60
@@ -69,7 +69,7 @@ leaseSchema.statics.lookup = function (lesseeId, apartmentId) {
     });
 }
 
-leaseSchema.methods.return = function () {
+leaseSchema.methods.return = function() {
     this.leaseExpiration = new Date();
 
     const leaseMonths = moment().diff(this.moveInDate, 'months');

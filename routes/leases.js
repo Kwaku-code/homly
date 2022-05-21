@@ -1,7 +1,7 @@
 const auth = require('../middleware/auth');
 const {Lease, validate} = require('../models/lease');
-const {Apartment} = require('../models/apartment');
 const {Lessee} = require('../models/lessee');
+const {Apartment} = require('../models/apartment');
 const express = require('express');
 const router = express.Router();
 
@@ -28,7 +28,7 @@ router.post('/', auth, async (req, res) => {
             name: lessee.name,
             leaseTerm: lessee.leaseTerm,
             numOfLeaseFlats: lessee.numOfLeaseFlats,
-            phone: customer.phone
+            phone: lessee.phone
         },
         apartment: {
             _id: apartment._id,

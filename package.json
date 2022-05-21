@@ -6,16 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Kwaku-code/homly.git"
-  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Kwaku-code/homly/issues"
-  },
-  "homepage": "https://github.com/Kwaku-code/homly#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "compression": "^1.7.4",
@@ -29,7 +22,7 @@
     "lodash": "^4.17.21",
     "moment": "^2.29.3",
     "mongoose": "^6.3.3",
-    "winston": "^3.7.2",
+    "winston": "^2.4.0",
     "winston-mongodb": "^5.0.7"
   },
   "devDependencies": {
