@@ -2,7 +2,7 @@ const Joi = require('joi');
 const mongoose = require('mongoose');
 const {serieSchema} = require('./serie');
 
-const Apartment = ('Apartment', new mongoose.Schema({
+const Apartment = mongoose.model('Apartment', new mongoose.Schema({
     name: {
         type: String,
         required: true,

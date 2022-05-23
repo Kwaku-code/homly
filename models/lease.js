@@ -54,7 +54,7 @@ const leaseSchema = new mongoose.Schema({
         default: Date.now
     },
     leaseExpiration: {
-        type: Date
+        type: Date,
     },
     leaseFee: {
         type: Number,
@@ -81,7 +81,9 @@ const Lease = mongoose.model('Lease', leaseSchema);
 function validateLease(lease) {
     const schema = {
         lesseeId: Joi.objectId().required(),
-        apartmentId: Joi.objectId().required()
+        apartmentId: Joi.objectId().required(),
+        leaseExpiration: Joi.date(),
+        leaseFee: Joi.number().min(1000).required(),
     };
 
     return Joi.validate(lease, schema);

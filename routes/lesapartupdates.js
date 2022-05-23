@@ -26,7 +26,7 @@ router.post('/', [auth, validate(validateLeaseTenure)], async (req, res) => {
 function validateLeaseTenure(req) {
     const schema = {
         lesseeId: Joi.objectId().required(),
-        apartmentId: Joi.objectId().required()
+        apartmentId: Joi.objectId().required(),
     };
 
     return Joi.validate(req, schema);
