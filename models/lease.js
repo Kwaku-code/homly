@@ -50,15 +50,15 @@ const leaseSchema = new mongoose.Schema({
     },
     moveInDate: {
         type: Date,
-        required: true,
-        default: Date.now
+        required: true
+        // default: Date.now
     },
     leaseExpiration: {
-        type: Date,
+        type: Date
     },
     leaseFee: {
         type: Number,
-        min: 1000
+        min: 0
     }
 });
 
@@ -71,8 +71,8 @@ leaseSchema.statics.lookup = function (lesseeId, apartmentId) {
 
 leaseSchema.methods.return = function() {
     this.leaseExpiration = new Date();
-
-    const leaseMonths = moment().diff(this.moveInDate, 'months');
+    
+    const leaseMonths = moment().diff(this.moveInDate, 'days');
     this.leaseFee = leaseMonths * this.apartment.monthlyLeaseRate;
 }
 
@@ -82,8 +82,9 @@ function validateLease(lease) {
     const schema = {
         lesseeId: Joi.objectId().required(),
         apartmentId: Joi.objectId().required(),
-        leaseExpiration: Joi.date(),
-        leaseFee: Joi.number().min(1000).required(),
+        moveInDate: Joi.date(),
+        leaseExpiration: Joi.date()
+        // leaseFee: Joi.number().min(1000).required(),
     };
 
     return Joi.validate(lease, schema);

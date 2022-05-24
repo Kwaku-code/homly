@@ -207,3 +207,164 @@
 {"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-23T16:31:48.052Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-23T16:32:28.258Z"}
 {"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-23T16:32:28.385Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T13:43:15.358Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T13:43:16.748Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T14:04:41.155Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T14:04:41.289Z"}
+{"message":"Lease validation failed: leaseFee: Path `leaseFee` (0) is less than minimum allowed value (1000).","stack":"ValidationError: Lease validation failed: leaseFee: Path `leaseFee` (0) is less than minimum allowed value (1000).\n    at model.Document.invalidate (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\mongoose\\lib\\document.js:2966:32)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\mongoose\\lib\\document.js:2755:17\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\mongoose\\lib\\schematype.js:1333:9\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","errors":{"leaseFee":{"name":"ValidatorError","message":"Path `leaseFee` (0) is less than minimum allowed value (1000).","properties":{"message":"Path `leaseFee` (0) is less than minimum allowed value (1000).","type":"min","min":1000,"path":"leaseFee","value":0},"kind":"min","path":"leaseFee","value":0}},"_message":"Lease validation failed","level":"error","timestamp":"2022-05-24T14:05:04.401Z"}
+{"message":"Lease validation failed: leaseFee: Path `leaseFee` (0) is less than minimum allowed value (1000).","stack":"ValidationError: Lease validation failed: leaseFee: Path `leaseFee` (0) is less than minimum allowed value (1000).\n    at model.Document.invalidate (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\mongoose\\lib\\document.js:2966:32)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\mongoose\\lib\\document.js:2755:17\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\mongoose\\lib\\schematype.js:1333:9\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","errors":{"leaseFee":{"name":"ValidatorError","message":"Path `leaseFee` (0) is less than minimum allowed value (1000).","properties":{"message":"Path `leaseFee` (0) is less than minimum allowed value (1000).","type":"min","min":1000,"path":"leaseFee","value":0},"kind":"min","path":"leaseFee","value":0}},"_message":"Lease validation failed","level":"error","timestamp":"2022-05-24T14:06:30.976Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T14:08:23.398Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T14:08:23.605Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T14:19:26.576Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T14:19:26.711Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T14:34:52.706Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T14:34:52.880Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T14:35:36.117Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T14:35:36.221Z"}
+{"message":"Lease validation failed: leaseFee: Path `leaseFee` (0) is less than minimum allowed value (1000).","stack":"ValidationError: Lease validation failed: leaseFee: Path `leaseFee` (0) is less than minimum allowed value (1000).\n    at model.Document.invalidate (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\mongoose\\lib\\document.js:2966:32)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\mongoose\\lib\\document.js:2755:17\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\mongoose\\lib\\schematype.js:1333:9\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","errors":{"leaseFee":{"name":"ValidatorError","message":"Path `leaseFee` (0) is less than minimum allowed value (1000).","properties":{"message":"Path `leaseFee` (0) is less than minimum allowed value (1000).","type":"min","min":1000,"path":"leaseFee","value":0},"kind":"min","path":"leaseFee","value":0}},"_message":"Lease validation failed","level":"error","timestamp":"2022-05-24T14:35:45.972Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T14:47:11.055Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T14:47:11.932Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T15:01:11.391Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T15:01:11.517Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T15:08:22.758Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T15:08:23.079Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T15:09:20.089Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T15:09:20.344Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T15:12:32.926Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T15:12:33.060Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T15:13:18.741Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T15:13:18.877Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T15:29:28.875Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T15:29:35.128Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T15:35:09.064Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T15:35:09.148Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T15:35:52.434Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T15:35:52.525Z"}
+{"message":"Lease validation failed: moveInDate: Path `moveInDate` is required.","stack":"ValidationError: Lease validation failed: moveInDate: Path `moveInDate` is required.\n    at model.Document.invalidate (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\mongoose\\lib\\document.js:2966:32)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\mongoose\\lib\\document.js:2755:17\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\mongoose\\lib\\schematype.js:1333:9\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","errors":{"moveInDate":{"name":"ValidatorError","message":"Path `moveInDate` is required.","properties":{"message":"Path `moveInDate` is required.","type":"required","path":"moveInDate"},"kind":"required","path":"moveInDate"}},"_message":"Lease validation failed","level":"error","timestamp":"2022-05-24T15:36:44.539Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T15:38:04.814Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T15:38:04.935Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T15:39:51.349Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T15:39:51.437Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T15:51:58.461Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T15:51:58.998Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T15:53:07.924Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T15:53:08.046Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T15:54:23.422Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T15:54:23.622Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T15:55:20.933Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T15:55:21.091Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T15:59:33.901Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T15:59:34.009Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T16:02:06.845Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T16:02:06.990Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T16:07:19.442Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T16:07:19.551Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T16:08:08.994Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T16:08:09.109Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T16:09:58.162Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T16:09:58.274Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T16:11:01.460Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T16:11:01.794Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T16:11:20.361Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T16:11:20.522Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T16:11:46.702Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T16:11:47.256Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T16:13:28.647Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T16:13:28.761Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T16:15:39.432Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T16:15:39.551Z"}
+{"message":"lease is not defined","stack":"ReferenceError: lease is not defined\n    at model.leaseSchema.methods.return (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\models\\lease.js:75:39)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\routes\\lesapartupdates.js:16:17\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","level":"error","timestamp":"2022-05-24T16:15:42.806Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T16:16:36.744Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T16:16:36.937Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T16:18:40.534Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T16:18:41.055Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T16:19:18.735Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T16:19:18.863Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T16:21:07.092Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T16:21:07.745Z"}
+{"message":"lease is not defined","stack":"ReferenceError: lease is not defined\n    at model.leaseSchema.methods.return (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\models\\lease.js:76:39)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\routes\\lesapartupdates.js:16:17\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","level":"error","timestamp":"2022-05-24T16:22:06.919Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T16:24:43.414Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T16:24:43.592Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T16:36:44.648Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T16:36:44.963Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T16:38:40.649Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T16:38:41.024Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T16:42:32.406Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T16:42:32.505Z"}
+{"message":"moveInDate is not defined","stack":"ReferenceError: moveInDate is not defined\n    at model.leaseSchema.methods.return (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\models\\lease.js:75:32)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\routes\\lesapartupdates.js:16:17\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","level":"error","timestamp":"2022-05-24T16:42:46.750Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T16:44:12.204Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T16:44:12.320Z"}
+{"message":"moveInDate is not defined","stack":"ReferenceError: moveInDate is not defined\n    at model.leaseSchema.methods.return (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\models\\lease.js:75:39)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\routes\\lesapartupdates.js:16:17\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","level":"error","timestamp":"2022-05-24T16:44:21.181Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T16:45:12.575Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T16:45:12.673Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T16:48:53.917Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T16:48:54.225Z"}
+{"message":"lease is not defined","stack":"ReferenceError: lease is not defined\n    at Function.leaseSchema.statics.lookup (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\models\\lease.js:66:5)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\routes\\lesapartupdates.js:10:31\n    at newFn (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\middleware\\validate.js:5:9\n    at newFn (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at module.exports (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\middleware\\auth.js:11:9)","level":"error","timestamp":"2022-05-24T16:49:44.123Z"}
+{"message":"lease is not defined","stack":"ReferenceError: lease is not defined\n    at Function.leaseSchema.statics.lookup (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\models\\lease.js:66:5)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\routes\\lesapartupdates.js:10:31\n    at newFn (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\middleware\\validate.js:5:9\n    at newFn (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at module.exports (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\middleware\\auth.js:11:9)","level":"error","timestamp":"2022-05-24T16:50:10.766Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T16:51:20.302Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T16:51:20.551Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T16:54:49.109Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T16:54:49.354Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T16:55:23.114Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T16:55:23.204Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T17:07:13.594Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T17:07:13.774Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T17:07:46.151Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T17:07:46.310Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T17:08:16.791Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T17:08:16.889Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T17:09:09.647Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T17:09:09.860Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T18:18:55.619Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T18:18:55.748Z"}
+{"message":"lessee is not defined","stack":"ReferenceError: lessee is not defined\n    at model.leaseSchema.methods.return (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\models\\lease.js:75:39)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\routes\\lesapartupdates.js:16:17\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","level":"error","timestamp":"2022-05-24T18:19:06.825Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T18:20:01.637Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T18:20:01.799Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T18:21:43.996Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T18:21:44.132Z"}
+{"message":"req is not defined","stack":"ReferenceError: req is not defined\n    at model.leaseSchema.methods.return (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\models\\lease.js:73:28)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\routes\\lesapartupdates.js:16:17\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","level":"error","timestamp":"2022-05-24T18:21:50.451Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T18:22:55.232Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T18:22:55.333Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T18:25:13.365Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T18:25:13.458Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T18:26:37.545Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T18:26:37.640Z"}
+{"message":"Lease validation failed: leaseFee: Path `leaseFee` (-3000) is less than minimum allowed value (0).","stack":"ValidationError: Lease validation failed: leaseFee: Path `leaseFee` (-3000) is less than minimum allowed value (0).\n    at model.Document.invalidate (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\mongoose\\lib\\document.js:2966:32)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\mongoose\\lib\\document.js:2755:17\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\mongoose\\lib\\schematype.js:1333:9\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","errors":{"leaseFee":{"name":"ValidatorError","message":"Path `leaseFee` (-3000) is less than minimum allowed value (0).","properties":{"message":"Path `leaseFee` (-3000) is less than minimum allowed value (0).","type":"min","min":0,"path":"leaseFee","value":-3000},"kind":"min","path":"leaseFee","value":-3000}},"_message":"Lease validation failed","level":"error","timestamp":"2022-05-24T18:26:47.376Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T18:27:48.025Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T18:27:48.119Z"}
+{"message":"Lease validation failed: leaseFee: Path `leaseFee` (-3000) is less than minimum allowed value (0).","stack":"ValidationError: Lease validation failed: leaseFee: Path `leaseFee` (-3000) is less than minimum allowed value (0).\n    at model.Document.invalidate (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\mongoose\\lib\\document.js:2966:32)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\mongoose\\lib\\document.js:2755:17\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\mongoose\\lib\\schematype.js:1333:9\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","errors":{"leaseFee":{"name":"ValidatorError","message":"Path `leaseFee` (-3000) is less than minimum allowed value (0).","properties":{"message":"Path `leaseFee` (-3000) is less than minimum allowed value (0).","type":"min","min":0,"path":"leaseFee","value":-3000},"kind":"min","path":"leaseFee","value":-3000}},"_message":"Lease validation failed","level":"error","timestamp":"2022-05-24T18:29:15.251Z"}
+{"message":"Lease validation failed: leaseFee: Path `leaseFee` (-1500) is less than minimum allowed value (0).","stack":"ValidationError: Lease validation failed: leaseFee: Path `leaseFee` (-1500) is less than minimum allowed value (0).\n    at model.Document.invalidate (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\mongoose\\lib\\document.js:2966:32)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\mongoose\\lib\\document.js:2755:17\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\mongoose\\lib\\schematype.js:1333:9\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","errors":{"leaseFee":{"name":"ValidatorError","message":"Path `leaseFee` (-1500) is less than minimum allowed value (0).","properties":{"message":"Path `leaseFee` (-1500) is less than minimum allowed value (0).","type":"min","min":0,"path":"leaseFee","value":-1500},"kind":"min","path":"leaseFee","value":-1500}},"_message":"Lease validation failed","level":"error","timestamp":"2022-05-24T18:31:24.331Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T18:33:10.172Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T18:33:10.290Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T18:36:21.710Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T18:36:21.798Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T18:38:08.401Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T18:38:08.503Z"}
+{"message":"Cannot read properties of undefined (reading 'diff')","stack":"TypeError: Cannot read properties of undefined (reading 'diff')\n    at model.leaseSchema.methods.return (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\models\\lease.js:75:52)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\routes\\lesapartupdates.js:16:17\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","level":"error","timestamp":"2022-05-24T18:38:20.797Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T18:42:19.352Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T18:42:19.454Z"}
+{"message":"Cannot read properties of undefined (reading 'diff')","stack":"TypeError: Cannot read properties of undefined (reading 'diff')\n    at model.leaseSchema.methods.return (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\models\\lease.js:75:60)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\routes\\lesapartupdates.js:16:17\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","level":"error","timestamp":"2022-05-24T18:42:27.768Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T18:44:00.475Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T18:44:00.668Z"}
+{"message":"Cannot read properties of undefined (reading 'diff')","stack":"TypeError: Cannot read properties of undefined (reading 'diff')\n    at model.leaseSchema.methods.return (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\models\\lease.js:75:66)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\routes\\lesapartupdates.js:16:17\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","level":"error","timestamp":"2022-05-24T18:44:07.597Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T18:44:56.026Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T18:44:56.157Z"}
+{"message":"leaseExpiration is not a function","stack":"TypeError: leaseExpiration is not a function\n    at model.leaseSchema.methods.return (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\models\\lease.js:75:50)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\routes\\lesapartupdates.js:16:17\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","level":"error","timestamp":"2022-05-24T18:45:02.354Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T18:46:11.885Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T18:46:12.091Z"}
+{"message":"Lease validation failed: leaseFee: Path `leaseFee` (-1500) is less than minimum allowed value (0).","stack":"ValidationError: Lease validation failed: leaseFee: Path `leaseFee` (-1500) is less than minimum allowed value (0).\n    at model.Document.invalidate (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\mongoose\\lib\\document.js:2966:32)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\mongoose\\lib\\document.js:2755:17\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\mongoose\\lib\\schematype.js:1333:9\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","errors":{"leaseFee":{"name":"ValidatorError","message":"Path `leaseFee` (-1500) is less than minimum allowed value (0).","properties":{"message":"Path `leaseFee` (-1500) is less than minimum allowed value (0).","type":"min","min":0,"path":"leaseFee","value":-1500},"kind":"min","path":"leaseFee","value":-1500}},"_message":"Lease validation failed","level":"error","timestamp":"2022-05-24T18:46:18.597Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T18:49:19.461Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T18:49:20.098Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T18:50:47.896Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T18:50:48.038Z"}
+{"message":"Lease validation failed: leaseFee: Path `leaseFee` (-3000) is less than minimum allowed value (0).","stack":"ValidationError: Lease validation failed: leaseFee: Path `leaseFee` (-3000) is less than minimum allowed value (0).\n    at model.Document.invalidate (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\mongoose\\lib\\document.js:2966:32)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\mongoose\\lib\\document.js:2755:17\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\mongoose\\lib\\schematype.js:1333:9\n    at processTicksAndRejections (node:internal/process/task_queues:78:11)","errors":{"leaseFee":{"name":"ValidatorError","message":"Path `leaseFee` (-3000) is less than minimum allowed value (0).","properties":{"message":"Path `leaseFee` (-3000) is less than minimum allowed value (0).","type":"min","min":0,"path":"leaseFee","value":-3000},"kind":"min","path":"leaseFee","value":-3000}},"_message":"Lease validation failed","level":"error","timestamp":"2022-05-24T18:51:05.681Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T18:54:49.055Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T18:54:49.257Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T18:58:58.151Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T18:58:58.425Z"}
+{"message":"Cannot read properties of undefined (reading 'startOf')","stack":"TypeError: Cannot read properties of undefined (reading 'startOf')\n    at model.leaseSchema.methods.return (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\models\\lease.js:75:49)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\routes\\lesapartupdates.js:16:17\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","level":"error","timestamp":"2022-05-24T18:59:20.073Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T19:01:26.525Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T19:01:26.668Z"}
+{"message":"moveInDate is not defined","stack":"ReferenceError: moveInDate is not defined\n    at model.leaseSchema.methods.return (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\models\\lease.js:75:39)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\routes\\lesapartupdates.js:16:17\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","level":"error","timestamp":"2022-05-24T19:01:36.100Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-24T19:02:17.757Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-24T19:02:17.860Z"}

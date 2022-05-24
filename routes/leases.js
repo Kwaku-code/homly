@@ -35,8 +35,9 @@ router.post('/', auth, async (req, res) => {
             name: apartment.name,
             monthlyLeaseRate: apartment.monthlyLeaseRate
         },
+        moveInDate: req.body.moveInDate,
         leaseExpiration: req.body.leaseExpiration,
-        leaseFee: req.body.leaseFee,
+        leaseFee: req.body.leaseFee
     });
     lease = await lease.save();
 
