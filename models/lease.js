@@ -50,8 +50,8 @@ const leaseSchema = new mongoose.Schema({
     },
     moveInDate: {
         type: Date,
-        required: true
-        // default: Date.now
+        required: true,
+        default: Date.now
     },
     leaseExpiration: {
         type: Date
