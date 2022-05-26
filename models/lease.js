@@ -69,7 +69,7 @@ leaseSchema.statics.lookup = function (lesseeId, apartmentId) {
     });
 }
 
-leaseSchema.methods.return = function() {
+leaseSchema.methods.return = function(endDate, startDate) {
     this.leaseExpiration = new Date();
     
     const leaseMonths = moment().diff(this.moveInDate, 'days');
