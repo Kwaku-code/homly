@@ -11,7 +11,7 @@ router.post('/', [auth, validate(validateLeaseTenure)], async (req, res) => {
 
     if (!lease) return res.status(404).send('Lease not found.');
 
-    if (lease.leaseExpiration >= lease.leaseExpiration + 1) return res.status(400).send('Lease tenure already processed.');
+    if (lease.leaseExpiration) return res.status(400).send('Lease tenure already processed.');
 
     lease.return();
     await lease.save();
