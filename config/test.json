@@ -1,4 +1,4 @@
 {
     "jwtPrivateKey": "1234",
-    "db": "mongodb://127.0.0.1/homly_tests"
+    "db": "mongodb://localhost/homly_tests"
 }

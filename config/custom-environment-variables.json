@@ -1,3 +1,4 @@
 {
-    "jwtPrivateKey": "homly_jwtPrivateKey"
+    "jwtPrivateKey": "homly_jwtPrivateKey",
+    "db": "homly_db"
 }
