@@ -809,3 +809,5 @@
 {"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-27T14:23:36.482Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-27T17:52:36.968Z"}
 {"level":"info","message":"Connected to mongodb://127.0.0.1/homly...","timestamp":"2022-05-27T17:52:37.701Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-28T11:13:03.419Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-28T11:13:04.033Z"}
