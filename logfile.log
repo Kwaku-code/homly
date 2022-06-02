@@ -812,3 +812,15 @@
 {"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-28T11:13:03.419Z"}
 {"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-05-28T11:13:04.033Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2022-05-28T16:50:44.437Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-02T12:19:56.869Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-02T12:19:56.958Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-02T12:22:23.656Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly_tests...","timestamp":"2022-06-02T12:22:23.745Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-02T12:39:20.215Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly_tests...","timestamp":"2022-06-02T12:39:20.747Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-02T12:39:38.561Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly_tests...","timestamp":"2022-06-02T12:39:38.725Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-02T12:39:45.013Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly_tests...","timestamp":"2022-06-02T12:39:45.376Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-02T12:39:51.259Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly_tests...","timestamp":"2022-06-02T12:39:51.461Z"}
