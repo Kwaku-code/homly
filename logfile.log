@@ -824,3 +824,176 @@
 {"level":"info","message":"Connected to mongodb://localhost/homly_tests...","timestamp":"2022-06-02T12:39:45.376Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-02T12:39:51.259Z"}
 {"level":"info","message":"Connected to mongodb://localhost/homly_tests...","timestamp":"2022-06-02T12:39:51.461Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T12:17:01.899Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T12:17:02.040Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T12:18:56.284Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T12:18:56.382Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T12:21:49.800Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T12:21:49.985Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T12:23:06.754Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T12:23:06.888Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T12:23:28.776Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T12:23:28.887Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T12:24:08.318Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T12:24:08.420Z"}
+{"message":"Cannot read properties of undefined (reading 'getMonth')","stack":"TypeError: Cannot read properties of undefined (reading 'getMonth')\n    at model.leaseSchema.methods.return (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\models\\lease.js:75:44)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\routes\\lesapartupdates.js:16:17\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","level":"error","timestamp":"2022-06-03T12:24:17.553Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T12:25:58.220Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T12:25:58.335Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T12:27:29.455Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T12:27:29.544Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T12:28:06.915Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T12:28:07.013Z"}
+{"message":"Cannot read properties of undefined (reading 'getMonth')","stack":"TypeError: Cannot read properties of undefined (reading 'getMonth')\n    at model.leaseSchema.methods.return (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\models\\lease.js:75:53)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\routes\\lesapartupdates.js:16:17\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","level":"error","timestamp":"2022-06-03T12:28:14.073Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T12:35:41.777Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T12:35:41.877Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T12:37:05.621Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T12:37:05.717Z"}
+{"message":"Cannot read properties of undefined (reading 'getDate')","stack":"TypeError: Cannot read properties of undefined (reading 'getDate')\n    at model.leaseSchema.methods.return (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\models\\lease.js:75:44)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\routes\\lesapartupdates.js:16:17\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","level":"error","timestamp":"2022-06-03T12:37:12.650Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T12:38:23.586Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T12:39:42.617Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T12:39:42.708Z"}
+{"message":"Cannot read properties of undefined (reading 'getFullYear')","stack":"TypeError: Cannot read properties of undefined (reading 'getFullYear')\n    at model.leaseSchema.methods.return (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\models\\lease.js:75:53)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\routes\\lesapartupdates.js:16:17\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","level":"error","timestamp":"2022-06-03T12:39:48.693Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T12:42:14.111Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T12:42:14.196Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T12:45:07.961Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T12:45:08.215Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T12:45:53.308Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T12:45:53.720Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T12:46:17.659Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T12:46:17.791Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T12:46:34.797Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T12:46:34.892Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T12:48:48.471Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T12:48:48.594Z"}
+{"message":"Cannot read properties of undefined (reading 'getFullYear')","stack":"TypeError: Cannot read properties of undefined (reading 'getFullYear')\n    at model.leaseSchema.methods.return (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\models\\lease.js:75:53)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\routes\\lesapartupdates.js:16:17\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","level":"error","timestamp":"2022-06-03T12:49:05.238Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T13:00:54.720Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T13:00:54.880Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T13:02:06.257Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T13:02:06.388Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T13:02:30.291Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T13:02:30.388Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T13:03:05.878Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T13:03:06.210Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T13:03:44.765Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T13:03:44.858Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T13:04:29.936Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T13:04:30.022Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T13:05:24.762Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T13:05:24.925Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T13:06:05.204Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T13:06:05.304Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T13:06:28.842Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T13:06:28.943Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T13:08:38.338Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T13:08:38.438Z"}
+{"message":"Cannot read properties of undefined (reading 'getFullYear')","stack":"TypeError: Cannot read properties of undefined (reading 'getFullYear')\n    at model.leaseSchema.methods.return (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\models\\lease.js:76:36)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\routes\\lesapartupdates.js:16:17\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","level":"error","timestamp":"2022-06-03T13:08:47.749Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T13:09:22.787Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T13:09:22.919Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T13:11:24.250Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T13:11:24.370Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T13:14:55.370Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T13:14:55.543Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T13:15:42.508Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T13:15:42.704Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T13:16:24.626Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T13:16:24.767Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T13:18:02.807Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T13:18:02.924Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T13:18:30.082Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T13:18:30.308Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T13:20:13.410Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T13:20:13.502Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T13:21:09.235Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T13:21:09.326Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T13:21:47.916Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T13:21:48.013Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T13:24:23.519Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T13:24:23.623Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T13:24:50.561Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T13:24:50.648Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T13:27:51.879Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T13:27:51.975Z"}
+{"message":"leaseExpiration is not defined","stack":"ReferenceError: leaseExpiration is not defined\n    at model.leaseSchema.methods.return (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\models\\lease.js:76:5)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\routes\\lesapartupdates.js:16:17\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","level":"error","timestamp":"2022-06-03T13:27:58.213Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T13:29:52.571Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T13:29:52.723Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T13:30:10.288Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T13:30:10.863Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T13:30:22.631Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T13:30:22.768Z"}
+{"message":"leaseExpiration is not defined","stack":"ReferenceError: leaseExpiration is not defined\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\routes\\lesapartupdates.js:14:5\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","level":"error","timestamp":"2022-06-03T13:30:41.606Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T13:31:48.357Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T13:31:48.443Z"}
+{"message":"leaseExpiration is not defined","stack":"ReferenceError: leaseExpiration is not defined\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\routes\\lesapartupdates.js:14:5\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","level":"error","timestamp":"2022-06-03T13:32:06.174Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T13:33:30.610Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T13:33:30.751Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T13:35:51.361Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T13:35:51.495Z"}
+{"message":"Cannot access 'lease' before initialization","stack":"ReferenceError: Cannot access 'lease' before initialization\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\routes\\lesapartupdates.js:12:5\n    at newFn (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\middleware\\validate.js:5:9\n    at newFn (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at module.exports (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\middleware\\auth.js:11:9)\n    at newFn (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\express-async-errors\\index.js:16:20)","level":"error","timestamp":"2022-06-03T13:36:43.298Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T14:56:52.570Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T14:56:52.770Z"}
+{"message":"Cannot access 'lease' before initialization","stack":"ReferenceError: Cannot access 'lease' before initialization\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\routes\\lesapartupdates.js:12:5\n    at newFn (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\middleware\\validate.js:5:9\n    at newFn (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at module.exports (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\middleware\\auth.js:11:9)\n    at newFn (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\express-async-errors\\index.js:16:20)","level":"error","timestamp":"2022-06-03T14:57:11.341Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T14:58:23.791Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T14:58:23.935Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T14:58:58.726Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T14:58:58.911Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T14:59:21.634Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T14:59:21.784Z"}
+{"message":"leaseExpiration is not defined","stack":"ReferenceError: leaseExpiration is not defined\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\routes\\lesapartupdates.js:14:5\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","level":"error","timestamp":"2022-06-03T14:59:28.893Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T15:00:45.138Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T15:00:45.247Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T15:01:04.422Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T15:01:04.521Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T15:02:51.488Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T15:02:51.628Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T15:04:36.753Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T15:04:36.851Z"}
+{"message":"Lease validation failed: leaseFee: Cast to Number failed for value \"NaN\" (type number) at path \"leaseFee\"","stack":"ValidationError: Lease validation failed: leaseFee: Cast to Number failed for value \"NaN\" (type number) at path \"leaseFee\"\n    at model.Document.invalidate (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\mongoose\\lib\\document.js:2966:32)\n    at model.$set (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\mongoose\\lib\\document.js:1446:12)\n    at model.set [as leaseFee] (C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\node_modules\\mongoose\\lib\\helpers\\document\\compile.js:181:19)\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\routes\\lesapartupdates.js:16:20\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","errors":{"leaseFee":{"stringValue":"\"NaN\"","kind":"Number","value":null,"path":"leaseFee","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="},"valueType":"number"}},"_message":"Lease validation failed","level":"error","timestamp":"2022-06-03T15:04:43.242Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T15:08:17.663Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T15:08:17.752Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at C:\\Users\\HP\\OneDrive\\Desktop\\Mosh\\Project\\homly\\routes\\lesapartupdates.js:14:5\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)","level":"error","timestamp":"2022-06-03T15:08:35.556Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T15:09:43.859Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T15:09:44.057Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T15:13:17.896Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T15:13:18.005Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T15:14:47.124Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T15:14:47.220Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T15:15:25.202Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T15:15:25.293Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T15:15:51.060Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T15:15:51.148Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T15:16:38.276Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T15:16:38.374Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T15:17:54.645Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T15:17:55.168Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T15:18:12.051Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T15:18:12.138Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T15:18:45.186Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T15:18:45.276Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T15:22:44.980Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T15:22:45.159Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T15:24:39.626Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T15:24:39.735Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T15:25:12.953Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T15:25:13.066Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T15:31:03.902Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T15:31:04.186Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T15:31:23.284Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T15:31:23.922Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T15:31:41.668Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T15:31:41.766Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T15:32:00.727Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T15:32:00.945Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T15:32:34.123Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T15:32:34.287Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T15:32:45.842Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T15:32:45.934Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T15:33:18.023Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T15:33:18.111Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T15:34:54.767Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T15:34:54.857Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T15:35:28.917Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T15:35:29.014Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T15:36:18.797Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T15:36:19.193Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-06-03T15:36:30.516Z"}
+{"level":"info","message":"Connected to mongodb://localhost/homly...","timestamp":"2022-06-03T15:36:30.614Z"}

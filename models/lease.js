@@ -71,7 +71,7 @@ leaseSchema.statics.lookup = function (lesseeId, apartmentId) {
 
 leaseSchema.methods.return = function() {
     this.leaseExpiration = new Date();
-    
+
     const leaseMonths = moment().diff(this.moveInDate, 'days');
     this.leaseFee = leaseMonths * this.apartment.monthlyLeaseRate;
 }
